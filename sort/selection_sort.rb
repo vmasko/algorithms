@@ -1,5 +1,3 @@
-array = [22, 11, 99, 88, 9, 7, 42]
-
 def swap(array, first, second)
   stored = array[first]
 
@@ -28,4 +26,5 @@ def selection_sort(array)
   end
 end
 
+array = [22, 11, 99, 88, 9, 7, 42]
 puts selection_sort(array).to_s

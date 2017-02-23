@@ -1,2 +1,2 @@
 # Algorithms
-Here are the Ruby scripts I wrote while making my way through the basics of computer science.
+Some scripts I'm writing on my way through some algorithms and data structures.
